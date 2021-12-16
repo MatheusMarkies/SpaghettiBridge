@@ -25,7 +25,7 @@ Baixe a pasta compactada ao lado, logo em seguida abra e execute o arquivo Start
 Construa sua ponte usando os botões de Adicionar no e adicionar barra.
 Após a ponte estar concluída, calcule o numero de barras que sua ponte precisara para aguentar uma determinada força.
 
-[![Image Treatment Test!](http://img.youtube.com/vi/sGGM_IfaCJQ/0.jpg)](https://youtu.be/sGGM_IfaCJQ "Little red riding hood - Click to Watch!")
+[![Image Treatment Test!](http://img.youtube.com/vi/sGGM_IfaCJQ/1.jpg)](https://youtu.be/sGGM_IfaCJQ "Little red riding hood - Click to Watch!")
 ![](https://i.ibb.co/2YYTYSx/Capturar2.png)
 ![](https://i.ibb.co/c8XGscb/Capturar1.png)
 
