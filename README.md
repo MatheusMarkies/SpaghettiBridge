@@ -33,4 +33,4 @@ Após a ponte estar concluída, calcule o numero de barras que sua ponte precisa
 
 Matheus Markies - [@MarkiesMatheus](https://twitter.com/MarkiesMatheus) - matheus.markies@gmail.com
 
-Project Link: [Stury Charts](https://github.com/MatheusMarkies/StudyCharts)
+Project Link: [SpaghettiBridge](https://github.com/MatheusMarkies/SpaghettiBridge)
